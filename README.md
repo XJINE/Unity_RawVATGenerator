@@ -4,6 +4,15 @@
 
 Generate VAT, NormalTex, Material, and Prefab from animated model.
 
+
+## Importing
+
+You can use Package Manager or import it directly.
+
+```
+https://github.com/XJINE/Unity_RawVATGenerator.git?path=Assets/Packages/RawVATGenerator
+```
+
 ## How to Use
 
 1. Open "Custom/VATGenerator" window.
