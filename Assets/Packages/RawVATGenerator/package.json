@@ -1,7 +1,7 @@
 {
     "name"       : "com.xjine.raw_vat_generator",
     "displayName": "Raw VAT Generator", 
-    "version"    : "1.0.0",
+    "version"    : "1.0.2",
     "unity"      : "2021.3",
     "description": "Generate VAT, NormalTex, Material, and Prefab from animated model.",
     "author"     :
